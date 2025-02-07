@@ -17,3 +17,8 @@ Tout fonctionne excepté :
   https://jestjs.io/docs/configuration
 
  ELIFECYCLE  Test failed. See above for more details. 
+
+
+A remarquer :
+
+Les tests sur les eventEmitter ne passaient pas, tout les autres si, cela veux donc bien dire qu'il y a un problème sur eventEmitter, malgré le fait qu'ils sont correctement implémentés
